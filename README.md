@@ -18,7 +18,6 @@ This HR Analytics project is an end-to-end analysis conducted to gain insights i
 ### Data Source:
 
 - The dataset used for this analysis contains 22,214 rows and includes various employee attributes such as age, gender, race, department, job title, location, hire date, and termination date.
-- [Link to dataset](https://www.kaggle.com/datasets/priykushwaha/hr-dataset)
 
 ### North Star Metrics:
 
